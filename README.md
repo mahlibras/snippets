@@ -14,7 +14,11 @@ https://github.com/mahlibras/snippets/blob/master/CART-Use-Case.ipynb
 ## Data Science Use Case: ASX Index Predictor Model
 I have created an ASX Index Buy/Sell Signal Predictor using Python scikit-learn / matplotlib libraries.
 
-https://github.com/mahlibras/snippets/blob/master/ASXIndexPredictor.ipynb
+### Part 1: Objectives, Hypothesis & Data Preparation
+https://github.com/mahlibras/snippets/blob/master/ASXIndexPredictor-DataPreparation.ipynb
+
+### Part 2: Feature Engineering & Model Selection
+https://github.com/mahlibras/snippets/commit/ed26c86efe040785af7b9533254338dfe461dbc7
 
 ## Undergraduate Proteomics Thesis: Bioinformatics Machine Learning
 This is a draft version of my undergraduate proteomics thesis titled “Quantitative Effects of Specific Residue Mutation on Protein Interaction Partners”, using clustering and regression techniques implemented with Perl, R, SQL and XML.
