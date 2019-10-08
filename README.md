@@ -12,12 +12,13 @@ This post describes the CART which was designed for Front Running detection.
 https://github.com/mahlibras/snippets/blob/master/CART-Use-Case.ipynb
 
 ## Data Science Use Case: ASX Index Predictor Model
-I have created an ASX Index Buy/Sell Signal Predictor using Python scikit-learn / matplotlib libraries.
+I have created an ASX Index Buy/Sell Signal Predictor using Python scikit-learn / matplotlib / xgboost libraries.
 
 ### Part 1: Objectives, Hypothesis & Data Preparation
 https://github.com/mahlibras/snippets/blob/master/ASXIndexPredictor-DataPreparation.ipynb
 
-### Part 2: Feature Engineering & Model Selection
+### Part 2 & 3: Feature Engineering & Model Selection
+In this article, I evaluate Logistic Regression and XGBoost models for classification accuracy on my feature engineered dataset.
 https://github.com/mahlibras/snippets/blob/master/ASXIndexPredictor-FeatureEngineering%26ModelSelection.ipynb
 
 ## Undergraduate Proteomics Thesis: Bioinformatics Machine Learning
