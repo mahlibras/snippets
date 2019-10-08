@@ -19,6 +19,7 @@ https://github.com/mahlibras/snippets/blob/master/ASXIndexPredictor-DataPreparat
 
 ### Part 2 & 3: Feature Engineering & Model Selection
 In this article, I evaluate Logistic Regression and XGBoost models for classification accuracy on my feature engineered dataset.
+
 https://github.com/mahlibras/snippets/blob/master/ASXIndexPredictor-FeatureEngineering%26ModelSelection.ipynb
 
 ## Undergraduate Proteomics Thesis: Bioinformatics Machine Learning
